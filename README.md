@@ -1,2 +1,2 @@
 # TIL_Cpp
-c++ study
+TIL c++ _Basic Algorithm
